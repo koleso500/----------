@@ -1,0 +1,8 @@
+/home/vasily/Desktop/diplom/Ускоритель/bld/CMakeFiles/install/strip.dir
+/home/vasily/Desktop/diplom/Ускоритель/bld/CMakeFiles/install/local.dir
+/home/vasily/Desktop/diplom/Ускоритель/bld/CMakeFiles/install.dir
+/home/vasily/Desktop/diplom/Ускоритель/bld/CMakeFiles/list_install_components.dir
+/home/vasily/Desktop/diplom/Ускоритель/bld/CMakeFiles/rebuild_cache.dir
+/home/vasily/Desktop/diplom/Ускоритель/bld/CMakeFiles/edit_cache.dir
+/home/vasily/Desktop/diplom/Ускоритель/bld/CMakeFiles/B1.dir
+/home/vasily/Desktop/diplom/Ускоритель/bld/CMakeFiles/exampleB1.dir
